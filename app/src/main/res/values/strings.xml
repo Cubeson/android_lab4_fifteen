@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Zadanie4</string>
+    <string name="time_elapsed_format">%1$s:%2$s</string>
+</resources>
